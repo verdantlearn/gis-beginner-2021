@@ -4,9 +4,7 @@ title: Flexible learning
 
 ## Flexible learning
 
-This beginner course *Introducing GIS for conservation* will run for four weeks, from Monday 17th to Friday 21st May 2021
-
-The learning activities should take you 4-5 hours of effort each week
+The learning activities on this 4-week part-time course should take you 4-5 hours of effort each week.  Alternatively, if you are self-studying the course, you might choose to study full-time over several days, or on another schedule to suit yourself
 
 - The **timing** of activities is *flexible*, so you can choose when to study
 - You could study for 45-60 minutes every weekday, or complete all the activities in a single day
