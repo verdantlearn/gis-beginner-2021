@@ -8,15 +8,13 @@ This course first ran **14 June to 11 July 2021**
 
 ## Licence
 
-CC BY-SA
-
 The learning content on this site is released under a Creative Commons Attribution ShareAlike (**CC BY-SA** 4.0) licence
 Specifically, the learning content is contained in the `modules` and `src` directories, and in `index.md`
 
+Any derivative works must bear the same CC BY-SA licence
+
 Please attribute as:
 > [Introducing GIS for conservation](https://courses.verdantlearn.org/gis-beginner-oe4bw/) by [Lucy Tallents](https://www.lucytallents.com) of [VerdantLearn](http://www.verdantlearn.com) is licenced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
-Any derivative works must bear the same CC BY-SA licence
 
 ---
 
