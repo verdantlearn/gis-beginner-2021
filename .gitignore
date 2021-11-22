@@ -5,4 +5,4 @@
 .sass-cache/
 _site/
 Gemfile.lock
-vendor/
+vendor/bundle
