@@ -3,6 +3,7 @@ title: Learning objectives
 ---
 
 ## Learning objectives
+
 By the end of this course, you will be able to:
 - Create a GIS project to combine your field observations with free environmental data *(all modules)*
 - Visualise your field data effectively *(modules 1, 2 & 4)*
