@@ -12,7 +12,7 @@ If you haven't already created an account at [https://community.verdantlearn.org
 
 **Post a self-introduction** by replying to Lucy's post below
 
-Once you've introduced yourself, read through other people's self-introductions and reply to someone to make connections and reward them for their effort.  Try to **find a fellow learner** with whom you have something in common - you can use the Discourse search function (top-right of any community page) to search for a keyword e.g. species name, organisation, country
+Once you've introduced yourself, read through other people's self-introductions and reply to someone to make connections and reward them for their effort.  Try to **find a fellow learner** with whom you have something in common - you can use the Discourse search function (top-right of any community page) to search for a keyword e.g. organisation, country, conservation issue, species name...
 
 
 <div id='discourse-comments'></div>
