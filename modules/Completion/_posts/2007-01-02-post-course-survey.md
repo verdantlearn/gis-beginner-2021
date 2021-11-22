@@ -1,5 +1,6 @@
 ---
 title: Post-course survey
+published: false
 ---
 
 ## Post-course survey

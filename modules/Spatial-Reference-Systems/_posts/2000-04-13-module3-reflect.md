@@ -1,5 +1,6 @@
 ---
 title: Reflection 
+published: false
 ---
 
 > Congratulations!  You've got a better understanding of how locations are defined in a GIS, and have learned how to add geospatial layers from a spreadsheet :boom: 

@@ -1,5 +1,6 @@
 ---
 title: Reflection 
+published: false
 ---
 
 Congratulations!  You've learned enough about QGIS over the last four modules to create and style your own map!  Fabulous work :fireworks:

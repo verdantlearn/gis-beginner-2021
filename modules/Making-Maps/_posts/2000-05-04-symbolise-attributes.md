@@ -1,5 +1,6 @@
 ---
 title: Symbolise attributes
+published: false
 ---
 
 ## Symbolise layers by attributes

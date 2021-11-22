@@ -1,5 +1,6 @@
 ---
 title: Map scale and orientation
+published: false
 ---
 
 ## Communicate scale and orientation on your map

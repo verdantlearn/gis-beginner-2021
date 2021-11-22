@@ -1,5 +1,6 @@
 ---
 title: Map legend
+published: false
 ---
 
 

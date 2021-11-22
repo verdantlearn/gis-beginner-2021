@@ -4,7 +4,7 @@ title: Gibbon case study
 
 ## Case study: Black crested gibbons
 
-Throughout this course, we encourage you to *use your own field data* so you can immediately apply what you're learning.  However, we know that it can be easier to start with a simplified dataset that matches what other learners are using, so we also provide data from a case-study of the Critically Endangered western black crested gibbon, *Nomascus concolor* in Chế Tạo Nature Reserve in northern Vietnam
+Throughout this course, we encourage you to *use your own field data* so you can immediately apply what you're learning.  However, we know that it can be easier to start with a simplified dataset that matches what your fellow learners are using, so we also provide data from a case-study of the Critically Endangered western black crested gibbon, *Nomascus concolor* in Chế Tạo Nature Reserve in northern Vietnam
 
 Gibbons are arboreal apes dependent on continuous forest canopy.  They live in monogamous family groups composed of a breeding pair and usually 1-2 infants/juveniles.  *Nomascus concolor* was thought to be extinct in Vietnam until it was rediscovered in 2000.  See the [IUCN Redlist page on black-crested gibbons](https://www.iucnredlist.org/species/39775/17968556) for more information on their ecology and conservation.  
 

@@ -1,5 +1,6 @@
 ---
 title: Map metadata
+published: false
 ---
 
 ## Add metadata to your map

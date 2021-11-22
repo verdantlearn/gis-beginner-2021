@@ -4,7 +4,7 @@ title: Inspect data
 
 ## Inspecting data
 
-Let's take a closer look at our gibbon datasets  :eyes: with the help of two very useful QGIS toolbars
+Let's take a closer look at your field data or the gibbon datasets :eyes: with the help of two very useful QGIS toolbars
 
 ### Map navigation toolbar
 <img src="{{site.baseurl}}/src/img/QGISToolbar_MapNav.png" alt="QGIS map navigation toolbar">  

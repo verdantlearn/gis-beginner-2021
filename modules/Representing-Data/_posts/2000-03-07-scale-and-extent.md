@@ -1,5 +1,6 @@
 ---
 title: Resolution & extent
+published: false
 ---
 
 ## Resolution and extent

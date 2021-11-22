@@ -1,5 +1,6 @@
 ---
 title: Map location
+published: false
 ---
 
 ## Communicate location on your map

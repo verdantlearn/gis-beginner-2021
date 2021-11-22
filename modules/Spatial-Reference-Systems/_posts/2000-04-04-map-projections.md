@@ -1,5 +1,6 @@
 ---
 title: Map projections
+published: false
 ---
 
 ## Map projections

@@ -1,5 +1,6 @@
 ---
 title: "Your map's message"
+published: false
 ---
 
 ## What's your message?

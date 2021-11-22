@@ -1,5 +1,6 @@
 ---
 title: Latitude-Longitude
+published: false
 ---
 
 <center><a title="Latitude-Longitude by Djexplo, CC0, via Wikimedia Commons"><img width="512" alt="Latitude and Longitude of the Earth" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Latitude_and_Longitude_of_the_Earth.svg/512px-Latitude_and_Longitude_of_the_Earth.svg.png"></a></center>

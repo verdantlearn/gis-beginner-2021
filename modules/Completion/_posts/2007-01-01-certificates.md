@@ -1,5 +1,6 @@
 ---
 title: Certificate
+published: false
 ---
 
 ## Certificate of completion

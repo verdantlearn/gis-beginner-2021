@@ -1,3 +1,4 @@
 title: Introducing GIS for conservation 
 description: A GIS beginner course for wildlife conservation professionals and students, built by Dr Lucy Tallents for <a href="http://www.verdantlearn.com">VerdantLearn</a>
-modules: [Preparation, Introduction, Representing-Data, Spatial-Reference-Systems, Making-Maps, Resources, Completion]
+modules: [Preparation, Introduction, Resources]
+# , Representing-Data, Spatial-Reference-Systems, Making-Maps, Completion, Resources]
