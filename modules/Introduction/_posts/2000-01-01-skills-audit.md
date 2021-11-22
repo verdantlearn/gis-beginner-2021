@@ -1,6 +1,5 @@
 ---
 title: Skills audit
-published: false
 ---
 
 # Skills audit
