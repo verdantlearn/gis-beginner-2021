@@ -14,7 +14,7 @@ title: Import field data
 
 You may need to work on your own field data before they are ready for QGIS.  These instructions assume that you're working with vector data, and that your observations are associated with point locations.  If you need to create lines (e.g. transects) or polygons (e.g. management areas or veg plots), you can do this from point data, or you may be working with tracks saved in your GPS.  If you can't figure out how to work with your data, post in the [community forum](https://community.verdantlearn.org), tagging your new topic with `help-needed`
 
-    :information_source: You *can* store survey locations and detailed observation data (attributes) in two separate files, and add them to QGIS and combine them in separate stages based on a matching field such as Waypoint ID.  However, for beginners *we recommend* that the coordinates and survey information are combined into a single file for simplicity
+> :information_source: You *can* store survey locations and detailed observation data (attributes) in two separate files, and add them to QGIS and combine them in separate stages based on a matching field such as Waypoint ID.  However, for beginners *we recommend* that the coordinates and survey information are combined into a single file for simplicity
 
 ## Check your data for errors & consistency
 
