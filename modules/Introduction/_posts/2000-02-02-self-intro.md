@@ -8,7 +8,9 @@ Hello :wave: it's lovely to meet you!  Now that you've found your way to this co
 
 <!-- If you haven't already created an account at [https://community.verdantlearn.org](https://community.verdantlearn.org), you'll need to do that first.  See the *Community forum* page in the Preparation module for instructions on how to sign up and create your profile -->
 
-If you haven't already created an account at [https://community.verdantlearn.org](https://community.verdantlearn.org), you'll need to do that first.  See the [community forum page]({% link modules/Preparation/_posts/2000-01-06-community-forum.md %}) for instructions on how to sign up and create your profile
+If you haven't already created an account at [https://community.verdantlearn.org](https://community.verdantlearn.org), you'll need to do that first.  See the [community forum page]({{site.baseurl}}{% link modules/Preparation/_posts/2000-01-06-community-forum.md %}) for instructions on how to sign up and create your profile
+
+
 
 **Post a self-introduction** by replying to Lucy's post below
 
