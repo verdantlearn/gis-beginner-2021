@@ -2,8 +2,6 @@
 title: Layers panel
 ---
 
-<!-- Direct them to downloading landcover for their own area of interest -->
-
 ## Using the Layers panel
 Most of QGIS' functionality is based around working with layers, and the Layers panel allows us quick access to fundamental tools 
 
