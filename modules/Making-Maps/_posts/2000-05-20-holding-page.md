@@ -1,11 +1,10 @@
 ---
 title: Awaiting release
-published: false
 ---
 
 ## Module 4: Making maps
 
-The materials for this module are awaiting release, and will be published on Friday 02 July 2021
+The materials for this module are awaiting release, and will be published on Friday 10 December
 
 ### Learning objectives
 By the end of this module, you will be able to:

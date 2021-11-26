@@ -1,6 +1,5 @@
 ---
 title: Vector
-published: false
 ---
 
 ## Vector data model
@@ -53,23 +52,6 @@ Test your new knowledge with our mini quiz!  :heavy_check_mark:
 <iframe src="https://verdantlearn.h5p.com/content/1291353958466496357/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://verdantlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <script src="https://verdantlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-
-<!-- Split vector symbology into a separate topic, and start with adjusting points as that's what they've imported.  Re-write the instructions to simply point them to the correct type of case study layer -->
-
-### Adjust vector symbology
-
-Let's work with a vector layer in QGIS.  Adapt these instructions to your own data, or play with the gibbon distribution polygons
-
-> 1. Double-click on *NomascusConcolor_Distribution* in the `Layers panel` to open the Layer Properties pop-up window
-1. Select `Symbology` from the left-hand menu
-2. At the top, under where it says 'Fill', click on `Simple Fill`
-3. Click on the `Symbol layer type` dropdown just below and select `Outline: Simple Line`
-4. Click `Apply` to see the effect - your polygons should now be drawn as an outline only, with no fill colour
-5. Adjust the `Color`, `Stroke width` and `Stroke style` to see the effect of these settings
-
-<br>
-<img src="{{site.baseurl}}/src/img/QGIS_Symbology-Polygon.png" alt="Adjust polygon symbology in QGIS">
-
 
 
 *[feature]: A record - a single point, line or polygon

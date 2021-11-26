@@ -7,7 +7,7 @@ title: Processing points
 Once you have created vector files containing points, there are many things you can do with them:
 1. [Convert to lines](#points2lines), e.g. draw transect lines from start & end points, or animal movement paths from tracking on foot 
 2. [Convert to polygons](#points2polygons), e.g. map survey areas or fire footprints from walking around their perimeter  
-3. **Join new attributes**, from another csv or other spatial layers  *[Instructions under development, for release in late 2021]*
+<!-- 3. <NEEDS WORK!> **Join new attributes**, from another csv or other spatial layers  *[Instructions under development, for release in late 2021]* -->
 
 
 ### Convert points to lines
@@ -29,7 +29,7 @@ To convert points to lines, two columns *must* be included in your attributes ta
 ### Convert points to polygons
 {: #points2polygons }
 
-Convert your points to lines using the `Points to path` tool ([see instructions](#points2lines)), then close the lines into polygons: 
+Convert your points to lines using the `Points to path` tool (see [instructions](#points2lines) above), then close the lines into polygons: 
 
 > 1. On the QGIS menu, go to `Vector > Geometry Tools > Lines to polygons`
 2. Select as your `Input layer` your newly-created lines layer, or the GPS tracks you collected in the field

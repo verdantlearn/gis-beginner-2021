@@ -1,7 +1,6 @@
 ---
 title: Join attributes
 published: false
-published: false
 ---
 
 > Keep unpublished for now

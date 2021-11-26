@@ -7,6 +7,8 @@ published: false
 
 Before we actually make our map, let's equip ourselves with some extra skills for symbolising layers
 
+<!-- Edit this if insert Symbolise by Attributes earlier in course -->
+
 So far we've ignored information in the attributes table of vector layers, and used identical symbology for all features in a layer.  Now it's time to explore a powerful visualisation option in QGIS :muscle: - the ability to **symbolise features by attributes**.  For vector layers, symbols are drawn according to properties (columns) in their attributes table.  For raster layers, symbols depend on the value within each grid cell
 
 :information_source: For all of these instructions you need to have the `Layer Properties` window open on the `Symbology` tab

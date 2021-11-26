@@ -1,16 +1,15 @@
 ---
 title: Discuss uncertainty
-published: false
 ---
 
 ## Uncertainty in your work
 
 Think about your own field data, or spatial data from other sources such as satellite imagery.
 - What types of uncertainty exist in them?
-- Are these inevitable, i.e. caused by the inability to measure precisely?
-- Are they deliberate generalisations or simplifications?
-- How might they affect what you can do with these data, for example in your analysis, map-making, or making management recommendations?
-- Is there anything you can do to reduce the sources of uncertainty?
+- Are these types of uncertainty inevitable, i.e. caused by the difficulty in measuring real-world features precisely?
+- Are these types of uncertainty deliberate generalisations or simplifications?
+- How might these types of uncertainty affect what you can do with your data, for example in your analysis, map-making, or making management recommendations?
+- Is there anything you can do to reduce these sources of uncertainty?
 
 Share your thoughts in the community forum below
 

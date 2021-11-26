@@ -2,7 +2,6 @@
 title: QGIS desktop
 ---
 
-
 ## QGIS desktop
 
 ### GUI

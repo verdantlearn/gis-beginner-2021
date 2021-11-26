@@ -1,6 +1,5 @@
 ---
 title: Resolution & extent
-published: false
 ---
 
 ## Resolution and extent
@@ -19,9 +18,9 @@ Also known as *grain*, or *frequency*.  I prefer the terms 'fine grain' (think s
 Extent
 : The area covered by the dataset, also known as *coverage*
 
-Contrast a global dataset (large extent) with data from a single survey location (small extent)
+A global dataset (large extent) and data from a single survey location (small extent) are at opposite ends of this spectrum
 
-### Contrasting spatial resolutions
+## Contrasting spatial resolutions
 
 Move the slider across the images below to see how the resolution affects the complexity and precision of spatial data
 
@@ -41,31 +40,51 @@ Temporal &nbsp; | Resolution &nbsp; | Every decade | Every minute
 Temporal | Extent | Single point in time | Spanning multiple decades
 
 
-### See it for yourself
+## See it for yourself
 
-<!-- Add instructions on how to download these different types of layers.  Move all the data download instructions to the Resources section, and link to them from here
+<!--Move all the data download instructions to the Resources section, and link to them from here
 
 Is that the way to isolate out the QGIS exercises?  Moving them to a module called QGIS exercises and ordering/labelling them sensibly? -->
 
-To help you understand these concepts, load the following new datasets to your QGIS project:
+To help you understand these concepts, add some new datasets to your QGIS project
 
-> 1. <a href="{{site.baseurl}}/src/datasets/OpenStreetMap_CheTao.osm" download>*OpenStreetMap*</a> fine grain vector data: add using `Add Vector Layer...`
-1. Coarse-grained data from the *Digital Chart of the World* - select 'Vietnam' and the following two datasets from the [DivaGIS data download page](https://diva-gis.org/gdata):
+### OpenStreetMap
+
+You have already added a tiled raster basemap from OpenStreetMap (OSM) to your project.  However, all of the fine grained vector data used to create that basemap can be downloaded and used direct, for example if you wish to only display unsurfaced roads, or particular types of buildings
+
+> 1. Go to [OpenStreetMap](https://www.openstreetmap.org/) and click on the `Export` button at the top left of the screen
+1. Type in your bounding coordinates (North, East, South, West) in the top left.  If you have specified small geographic extent, a blue `Export` button will appear
+2. If you need a larger area, choose one of the repositories listed in the bottom left of that OpenStreetMap page instead
+3. Alternatively, you can download <a href="{{site.baseurl}}/src/datasets/OpenStreetMap_CheTao.osm" download>*OpenStreetMap*</a> fine grain vector data for Che Tao
+4. Add the OSM using `Add Vector Layer...`
+
+### Digital Chart of the World
+DCW provides coarse grained vector and raster data at country level
+
+> 1. Go to the [DivaGIS data download page](https://diva-gis.org/gdata), select your country of interest and download the layers that are useful to you, for example:
    1. Roads (shapefile)
    2. Land cover (virtual raster): add using `Add Raster Layer...` or drag & drop the *.vrt* file into your QGIS map view
-2. <a href="{{site.baseurl}}/src/datasets/VNM_cov.qml" download>*VNM_cov.qml* QGIS style file</a> for the DCW landcover layer you just downloaded from DivaGIS - save it in the same folder as the *VNM_cov.vrt* and *VNM_cov.grd* files
-3. [Chế Tạo Nature Reserve boundary](https://www.protectedplanet.net/555594126) from *Protected Planet*:
+1. You can use the <a href="{{site.baseurl}}/src/datasets/VNM_cov.qml" download>*VNM_cov.qml* QGIS style file</a> for the DCW landcover layer you just downloaded from DivaGIS - save it in the same folder as your *.vrt* and *.grd* files and rename it to match the files you downloaded.  For example, rename it *VNM_cov.qml* if your landcover layer is called *VNM_cov.grd*
+
+### Protected Planet
+You can download the boundaries of protected areas from Protected Planet
+
+:warning: The boundaries may not always reflect the situation on the ground.  Protected Planet uses the World Database of Protected Areas (WDPA) as its source, and national or regional governments may not have provided the most detailed or recent information to WDPA  
+
+1. [Chế Tạo Nature Reserve boundary](https://www.protectedplanet.net/555594126) from *Protected Planet*:
    1. Click the green Download button
    2. Select SHP, then Non-Commercial use
    3. Unzip the downloaded file *WDPA_WDOECM_Jun2021_Public_555594126_shp.zip*
    4. Alongside many other folders/files, you’ll now see *WDPA_WDOECM_Jun2021_Public_555594126_shp**_0**.zip*. Unzip this second *.zip* file to extract the contents
-   5. You can now add the *.shp* to your QGIS project
+   5. You can now add the *.shp* to your QGIS project using `Add Vector Layer...`
 
 <br>
 
+Now you have added a variety of layers to your project, examine the contrast between coarse and fine grain in more detail:
+
 > 1. Compare the visual detail of the **roads** from OSM and DCW
-2. Compare the fine-grain Che Tao **Nature Reserve boundaries** from Protected Planet with the corresponding polygon in the IUCN Redlist's *NomascusConcolor_Distribution* layer
-3. Compare the two **landcover** raster layers from Copernicus and DCW - consider both their spatial resolution, and how well their landcover classes (thematic values) overlap with each other
+1. Compare the fine grained Che Tao **Nature Reserve boundaries** from Protected Planet with the corresponding polygon in the IUCN Redlist's *NomascusConcolor_Distribution* layer
+2. Compare the two **landcover** raster layers from Copernicus and DCW.  Consider both their spatial resolution, and the amount of overlap in their landcover class definitions (thematic values)
 
 
 <!-- 2. Natural Earth -->
