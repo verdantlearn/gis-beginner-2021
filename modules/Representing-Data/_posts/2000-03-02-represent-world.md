@@ -1,6 +1,5 @@
 ---
 title: Represent the world
-published: false
 ---
 
 ## Representing the world around us
@@ -29,9 +28,3 @@ We'll look at each of these in turn on the following pages.  We won't cover alte
 
 *[geospatial data]: Descriptive information plus location
 
-
-<!-- Can I use sparklines in observable (or Jekyll!?) to illustrate points, lines, polys?
-https://observablehq.com/@maxim-k/sparkline
-https://observablehq.com/@akngs/sparklines
-https://observablehq.com/@kgryte/stdlib-unicode-sparkline-column-chart
-https://observablehq.com/@oliviafvane/branching-sparklines-line-graphs -->

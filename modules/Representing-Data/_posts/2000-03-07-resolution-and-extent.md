@@ -31,6 +31,8 @@ Move the slider across the images below to see how the resolution affects the co
 
 The terms resolution and extent can be applied to the **temporal dimension** (time) as well as the spatial.  In other words, you can describe a dataset as having high temporal resolution (e.g. observations repeated every minute), or low temporal resolution (e.g. observations spaced many years apart)
 
+<!-- Sort out the use of non-breaking spaces here -->
+
 Dimension  &nbsp; | Property  &nbsp; | Example of a low value &nbsp; | Example of a high value &nbsp; 
 ---|---|---
 Spatial | Resolution | One value per country | Submetre grid cells
@@ -40,6 +42,10 @@ Temporal | Extent | Single point in time | Spanning multiple decades
 
 
 ### See it for yourself
+
+<!-- Add instructions on how to download these different types of layers.  Move all the data download instructions to the Resources section, and link to them from here
+
+Is that the way to isolate out the QGIS exercises?  Moving them to a module called QGIS exercises and ordering/labelling them sensibly? -->
 
 To help you understand these concepts, load the following new datasets to your QGIS project:
 

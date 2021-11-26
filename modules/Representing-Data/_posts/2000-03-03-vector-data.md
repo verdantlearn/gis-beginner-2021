@@ -44,6 +44,7 @@ This example contains a single polygon made from 9 vertices
 Vector attributes
 : Information about a feature or record, stored in columns in the attributes table
 
+> If you've followed the instructions to import your own dataset from a text file, you've created vector data - points, which can be connected into lines and or polygons.  You can also add other field observations as attribute information
 
 ### Quiz: Vector data model
 
@@ -53,9 +54,11 @@ Test your new knowledge with our mini quiz!  :heavy_check_mark:
 
 <script src="https://verdantlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
+<!-- Split vector symbology into a separate topic, and start with adjusting points as that's what they've imported.  Re-write the instructions to simply point them to the correct type of case study layer -->
+
 ### Adjust vector symbology
 
-Let's work with a vector layer in QGIS, and adjust the way the gibbon distribution polygons are displayed
+Let's work with a vector layer in QGIS.  Adapt these instructions to your own data, or play with the gibbon distribution polygons
 
 > 1. Double-click on *NomascusConcolor_Distribution* in the `Layers panel` to open the Layer Properties pop-up window
 1. Select `Symbology` from the left-hand menu
@@ -75,4 +78,15 @@ Let's work with a vector layer in QGIS, and adjust the way the gibbon distributi
 *[attribute]: Property of a vector feature, or value in a raster cell
 *[attributes]: Properties of a vector feature, or value in a raster cell
 
+
+<!-- Improve quiz - create Dialog cards 
+Use the same examples but find pictures to represent them, and put in point/line/polygon image on back of card
+-->
+
 <!-- Observable: Fix polygons, include table of coordinates plus hover-over of coordinates -->
+
+<!-- Can I use sparklines in observable (or Jekyll!?) to illustrate points, lines, polys?
+https://observablehq.com/@maxim-k/sparkline
+https://observablehq.com/@akngs/sparklines
+https://observablehq.com/@kgryte/stdlib-unicode-sparkline-column-chart
+https://observablehq.com/@oliviafvane/branching-sparklines-line-graphs -->

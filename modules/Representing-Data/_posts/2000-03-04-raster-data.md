@@ -1,6 +1,5 @@
 ---
 title: Raster
-published: false
 ---
 
 ## Raster data model
@@ -24,7 +23,9 @@ Rasters values can be:
 - **Quantities** - *continuous* variables such as rainfall or density.  The DEM we'll use below is an example of a continuous raster
 - **Thematic** - *categories* such as vegetation class, presence/absence of a species, represented by a numerical code
 
-Our LandCover dataset is an example of a thematic raster - each pixel contains a code indicating the landcover class at that location.  These are the classes that occur in and around Che Tao Nature Reserve:[^1] 
+> The LandCover dataset you downloaded is an example of a thematic raster - each pixel contains a code indicating the landcover class at that location
+
+If you're using the gibbon datasets, these are the land cover classes that occur in and around Che Tao Nature Reserve:[^1] 
 
 Code &nbsp; | &nbsp; Landcover class
 ---:|---
