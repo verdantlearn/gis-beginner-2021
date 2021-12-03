@@ -1,5 +1,6 @@
 ---
 title: Awaiting release
+published: false
 ---
 
 ## Module 3: Spatial reference systems

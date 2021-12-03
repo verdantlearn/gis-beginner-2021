@@ -1,20 +1,17 @@
 ---
 title: Import a spreadsheet
-published: false
 ---
 
-<Obsolete!  Don't publish>
+## Import Latitude-Longitude
 
-## Import spatial data from a spreadsheet
+You may already be familiar with Latitude-Longitude coordinates from your own field data.  If not, you can try inspecting and importing this dataset from the gibbon case study 
 
-Let's work with an example of Latitude-Longitude coordinates, to learn how to import spatial data from a spreadsheet
-
-The Che Tao NR staff have provided us with a new dataset from their most recent patrol, looking for evidence of **threats to wildlife**
+The Che Tao NR staff have provided us with new data from their most recent patrol, looking for evidence of **threats to wildlife**
 
 ### *.csv* file format
 *Threats_Evidence.csv* is in *.csv* format, or *comma-delimited*, with columns separated by a comma.  *.csv* is a non-spatial file format, although as you'll see, it does contain spatial information
 
-To add this new layer to your GIS project, you'll need to use a new method.  QGIS won't automatically know where to draw data in *.csv* format, so we have to tell it where the location coordinates are stored.  Before we do that, let's take a look at the raw data
+Remember that QGIS won't automatically know where to draw data in *.csv* format, so we have to tell it where the location coordinates are stored.  Before we do that, let's take a look at the raw data
 
 > 1. Download <a href="{{site.baseurl}}/src/datasets/Threats_Evidence.csv" download>Threats_Evidence.csv</a>
 1. Open up the .csv file in Excel (or a text editor if you prefer)
@@ -25,18 +22,19 @@ To add this new layer to your GIS project, you'll need to use a new method.  QGI
 
 ## Add .csv data to QGIS
 
-For those of you who are more confident with the basics of using QGIS, here are the steps without screenshots:
-> 1. `Layer > Add Layer > Add Delimited Text Layer...`
-1. Choose source file - click the `...` button and find *Threats_Evidence.csv*
-2. Ensure `Point coordinates` is selected under `Geometry Definition`
-3. QGIS should automatically recognise which columns contain the X (Longitude) and Y (Latitude) coordinates
-4. Click `Add` and `Close`
+Here's a reminder of how to add *.csv* files:
+> 1. `Layer > Add Layer > Add Delimited Text Layer...` <details> <summary markdown="span">:framed_picture: Screenshot</summary> :warning: Be aware that the csv file in these screenshots is different from yours! <center> <img src="{{site.baseurl}}/src/img/add-text-qgis-013.png" alt="QGIS screenshot: Add delimited text layer"> </center> </details>
+> 1. Choose source file - click the `...` button and find *Threats_Evidence.csv* <details> <summary markdown="span">:framed_picture: Screenshot</summary> <center> <img src="{{site.baseurl}}/src/img/add-text-qgis-019.png" alt="QGIS screenshot: Choose text file"> </center> </details>
+1. Ensure `Point coordinates` is selected under `Geometry Definition` <details> <summary markdown="span">:framed_picture: Screenshot</summary> <center> <img src="{{site.baseurl}}/src/img/add-text-qgis-033.png" alt="QGIS screenshot: Specify X and Y columns"> </center> </details>
+2. QGIS should automatically recognise which columns contain the X (Longitude) and Y (Latitude) coordinates
+3. Click `Add` and `Close`
 
+<!-- <br>
+
+<details> <summary markdown= "span" >:radio_button: :framed_picture: Click here for screenshots!</summary> 
 <br>
 
-For those of you who want more detail or visual instructions, here are the steps including screenshots: 
-
-:warning: Be aware that the csv file in these screenshots is different from yours
+:warning: Be aware that the csv file in these screenshots is different from yours!
 
 - `Layer > Add Layer > Add Delimited Text Layer...`
 
@@ -50,6 +48,7 @@ For those of you who want more detail or visual instructions, here are the steps
 
 - Click `Add` and `Close`
 
+</details> -->
 
 
 <!-- ### Add geometry to points

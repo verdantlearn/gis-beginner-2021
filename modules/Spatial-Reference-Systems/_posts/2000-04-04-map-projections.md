@@ -1,6 +1,5 @@
 ---
 title: Map projections
-published: false
 ---
 
 ## Map projections
@@ -44,13 +43,10 @@ Up until now, we've been using Latitude-Longitude (EPSG code 4326) as our projec
 :warning: Be aware that you should always choose a project CRS that is appropriate to the location and extent of your datasets, i.e. a global CRS for a global dataset, or you may get unexpected behaviour or cause QGIS to crash!  Changing to a local/national CRS may also affect QGIS' ability to draw the OpenStreetMap basemap
 
 > 1. Click on the `Project CRS` button in the bottom right of the QGIS window - refer to the QGIS Desktop page in the Introduction module if you can't remember where this is
-1. When the `Project Properties - CRS` window opens, type *pseudo* into the search box at the top, and select *WGS 84 / Pseudo Mercator* in the `Predefined Coordinate Reference Systems` box in the centre (see screenshot below)
+1. When the `Project Properties - CRS` window opens, type *pseudo* into the search box at the top, and select *WGS 84 / Pseudo Mercator* in the `Predefined Coordinate Reference Systems` box in the centre <details> <summary markdown="span">:framed_picture: Screenshot</summary> <center><a title="Types of map projection"><img alt="Types of map projection" src="{{site.baseurl}}/src/img/QGIS_ProjectProperties_CRS.png"></a></center> </details>
 2. Click `OK` and note how the EPSG code to the bottom right has changed from 4326 to 3857
 3. Move your mouse over the map, and see how the coordinates in the `Mouse coordinates` area of the QGIS window (bottom centre) are now much larger numbers
 
-<br>
-
-<center><a title="Types of map projection"><img alt="Types of map projection" src="{{site.baseurl}}/src/img/QGIS_ProjectProperties_CRS.png"></a></center>
 
 *[map projection]: method to draw the earth's curved surface onto a flat map
 *[coordinates]: pair of numbers indicating distance along x and y axes
