@@ -1,6 +1,5 @@
 ---
 title: Maps with QGIS
-published: false
 ---
 
 ## Create a map in QGIS

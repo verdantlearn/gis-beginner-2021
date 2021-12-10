@@ -18,3 +18,6 @@ Your project should look like this:
 <center><img src="{{site.baseurl}}/src/img/QGIS_BaseMap.png" alt="QGIS project including base map"></center>
 
 Look at that!  You've created your first QGIS project and learned the basics of navigating around the map, and displaying layers - well done  :fireworks:
+
+
+<!-- https://atcoordinates.info/2020/12/17/adding-basemaps-to-qgis-with-web-mapping-services/ -->

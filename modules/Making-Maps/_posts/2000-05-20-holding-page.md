@@ -1,5 +1,6 @@
 ---
 title: Awaiting release
+published: false
 ---
 
 ## Module 4: Making maps
