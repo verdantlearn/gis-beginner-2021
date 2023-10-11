@@ -7,7 +7,10 @@ title: QGIS desktop
 ### GUI
 Use this interactive guide to familiarise yourself with the main sections of the QGIS GUI
 
-<iframe src="https://verdantlearn.h5p.com/content/1291343455090796897/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://verdantlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<div id='h5p-qgis-gui'></div>
+
+<iframe src="https://verdantlearn.h5p.com/content/1291343455090796897/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
 
 ### Toolbars
 
@@ -30,9 +33,22 @@ Your QGIS window should now look like this.  Here we've positioned the three too
 <center><img src="{{site.baseurl}}/src/img/QGIS_SimpleGUI.png" alt="QGIS simpler interface"></center>
 
 
-<!-- For dynamic sizing of H5P content -->
-<script src="https://verdantlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-
 *[GUI]: Graphical User Interface
 *[panels]: Areas of the main QGIS window - can be hidden
 *[toolbars]: Collection of tool buttons - can be hidden or repositioned
+
+
+
+<script type="text/javascript">
+    const el = document.getElementById('h5p-qgis-gui');
+    const options = {
+    // 5pJsonPath:  '/h5p-folder',
+    // frameJs: '/assets/frame.bundle.js',
+    // frameCss: '/assets/styles/h5p.css',
+    h5pJsonPath:  '../../../src/h5p/QGIS_GUI',
+    frameJs: '../../../src/h5p/standAlonePlayer/frame.bundle.js',
+    frameCss: '../../../src/h5p/standAlonePlayer/styles/h5p.css',
+    }
+    new H5PStandalone.H5P(el, options);
+
+</script>

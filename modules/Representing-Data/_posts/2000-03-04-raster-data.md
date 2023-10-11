@@ -48,7 +48,7 @@ Code &nbsp; | &nbsp; Landcover class
 
 Here's another quick quiz!  :heavy_check_mark:
 
-<iframe src="https://verdantlearn.h5p.com/content/1291354595816641297/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://verdantlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://verdantlearn.h5p.com/content/1291354595816641297/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
 <script src="https://verdantlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 

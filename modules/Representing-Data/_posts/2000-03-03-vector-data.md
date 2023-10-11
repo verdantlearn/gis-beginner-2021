@@ -49,7 +49,7 @@ Vector attributes
 
 Test your new knowledge with our mini quiz!  :heavy_check_mark:
 
-<iframe src="https://verdantlearn.h5p.com/content/1291353958466496357/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://verdantlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://verdantlearn.h5p.com/content/1291353958466496357/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
 <script src="https://verdantlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
