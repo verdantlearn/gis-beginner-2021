@@ -51,12 +51,6 @@ Test your new knowledge with our mini quiz!  :heavy_check_mark:
 
 <div id='h5p-vector-data-types'></div>
 
-
-<!-- <iframe src="https://verdantlearn.h5p.com/content/1291353958466496357/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
-
-<script src="https://verdantlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script> -->
-
-
 *[feature]: A record - a single point, line or polygon
 *[vertex]: x,y coordinates of the point where two lines meet
 *[vertices]: Plural of vertex
@@ -75,7 +69,6 @@ Test your new knowledge with our mini quiz!  :heavy_check_mark:
     frameCss: '../../../src/h5p/standAlonePlayer/styles/h5p.css',
     }
     new H5PStandalone.H5P(el, options);
-
 </script>
 
 

@@ -26,8 +26,6 @@ Move the slider across the images below to see how the resolution affects the co
 
 <div id='h5p-spatial-res-juxtaposition'></div>
 
-<!-- <iframe src="https://verdantlearn.h5p.com/content/1291357976659369267/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://verdantlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script> -->
-
 ### Spatial *and* temporal 
 
 The terms resolution and extent can be applied to the **temporal dimension** (time) as well as the spatial.  In other words, you can describe a dataset as having high temporal resolution (e.g. observations repeated every minute), or low temporal resolution (e.g. observations spaced many years apart)

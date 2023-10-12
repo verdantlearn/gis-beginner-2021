@@ -50,8 +50,6 @@ Here's another quick quiz!  :heavy_check_mark:
 
 <div id='h5p-raster-data-types'></div>
 
-<!-- <iframe src="https://verdantlearn.h5p.com/content/1291354595816641297/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe> -->
-
 [^1]: Download the complete list of <a href="{{site.baseurl}}/src/datasets/LandCover_ClassDefinitions.pdf" download>Copernicus land cover classes</a>
 
 *[pixel]: Single cell in a raster grid
@@ -71,7 +69,3 @@ Here's another quick quiz!  :heavy_check_mark:
     }
     new H5PStandalone.H5P(el, options);
 </script>
-
-<!-- 
-<script src="https://verdantlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
- -->

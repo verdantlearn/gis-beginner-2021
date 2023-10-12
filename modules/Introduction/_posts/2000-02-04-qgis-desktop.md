@@ -9,9 +9,6 @@ Use this interactive guide to familiarise yourself with the main sections of the
 
 <div id='h5p-qgis-gui'></div>
 
-<!-- <iframe src="https://verdantlearn.h5p.com/content/1291343455090796897/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe> -->
-
-
 ### Toolbars
 
 **Open QGIS Desktop** (not Browser) on your own computer.  When you first open QGIS, it has many toolbars visible.  To make it easier to find the tools we'll use in this course, and maximise the area available to view your spatial data, let's reduce the panels and toolbars that are visible:
