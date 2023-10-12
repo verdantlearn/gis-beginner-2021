@@ -48,12 +48,30 @@ Code &nbsp; | &nbsp; Landcover class
 
 Here's another quick quiz!  :heavy_check_mark:
 
-<iframe src="https://verdantlearn.h5p.com/content/1291354595816641297/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+<div id='h5p-raster-data-types'></div>
 
-<script src="https://verdantlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<!-- <iframe src="https://verdantlearn.h5p.com/content/1291354595816641297/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe> -->
 
 [^1]: Download the complete list of <a href="{{site.baseurl}}/src/datasets/LandCover_ClassDefinitions.pdf" download>Copernicus land cover classes</a>
 
 *[pixel]: Single cell in a raster grid
 *[DEM]: Digital Elevation Model
 *[attribute]: Property of a vector feature, or value in a raster cell
+
+
+<script type="text/javascript">
+    const el = document.getElementById('h5p-raster-data-types');
+    const options = {
+    // 5pJsonPath:  '/h5p-folder',
+    // frameJs: '/assets/frame.bundle.js',
+    // frameCss: '/assets/styles/h5p.css',
+    h5pJsonPath:  '../../../src/h5p/RasterDataTypes',
+    frameJs: '../../../src/h5p/standAlonePlayer/frame.bundle.js',
+    frameCss: '../../../src/h5p/standAlonePlayer/styles/h5p.css',
+    }
+    new H5PStandalone.H5P(el, options);
+</script>
+
+<!-- 
+<script src="https://verdantlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+ -->

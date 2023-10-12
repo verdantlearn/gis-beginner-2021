@@ -4,3 +4,4 @@ gem 'github-pages'
 gem 'jemoji'
 # gem 'jekyll-openmoji', '~> 0.1.5'
 # gem 'jekyll-mermaid'
+gem "webrick", "~> 1.8"

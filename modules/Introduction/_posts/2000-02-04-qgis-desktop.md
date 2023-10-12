@@ -9,7 +9,7 @@ Use this interactive guide to familiarise yourself with the main sections of the
 
 <div id='h5p-qgis-gui'></div>
 
-<iframe src="https://verdantlearn.h5p.com/content/1291343455090796897/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+<!-- <iframe src="https://verdantlearn.h5p.com/content/1291343455090796897/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe> -->
 
 
 ### Toolbars
@@ -36,7 +36,6 @@ Your QGIS window should now look like this.  Here we've positioned the three too
 *[GUI]: Graphical User Interface
 *[panels]: Areas of the main QGIS window - can be hidden
 *[toolbars]: Collection of tool buttons - can be hidden or repositioned
-
 
 
 <script type="text/javascript">
