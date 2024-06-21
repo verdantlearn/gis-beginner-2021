@@ -46,5 +46,4 @@ Your QGIS window should now look like this.  Here we've positioned the three too
     frameCss: '../../../src/h5p/standAlonePlayer/styles/h5p.css',
     }
     new H5PStandalone.H5P(el, options);
-
 </script>
